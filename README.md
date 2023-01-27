@@ -5,4 +5,5 @@ This is based on the Dielectric Breakdown model discueed in the reserch paper [P
 
 
 This 2D Implemnetation was done using houdini VEX and inside a solver
+
 ![sample output](https://github.com/lakshikau/lightning_simulation/blob/main/sim_record_2.gif)
